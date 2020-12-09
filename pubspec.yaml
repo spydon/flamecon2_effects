@@ -12,3 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   flame: "1.0.0-rc2"
+
+flutter:
+  assets:
+    - assets/images/flame.png
